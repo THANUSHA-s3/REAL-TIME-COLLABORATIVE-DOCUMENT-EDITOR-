@@ -1,12 +1,14 @@
+# REAL-TIME-COLLABORATIVE-DOCUMENT_EDITOR
 
+CODTECH Task 3: Real time collaborative-document-editor
 
+NAME : S THANUSHA
 
+DOMAIN : Full Stack Web Development
 
+INTERN ID : CT12DL715
 
-
-
-
-
+COMPANY : CODTECH IT SOLUTIONS 
 
 # 🔧 Step-by-Step Setup
 
